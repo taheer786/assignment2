@@ -1,0 +1,10 @@
+.header {
+ text-align: center;
+}
+
+
+@media (min-width: 300px) and (max-width: 812px) {
+    .header {
+        background-color: aquamarine;
+       }
+}
