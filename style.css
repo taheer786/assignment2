@@ -1,34 +1,34 @@
 .header {
-    padding-left: 0px;
-    padding-right: 1000px;
-
-    
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 30px;
+    max-width: 375px;
 }
 *{
-    margin: 0rem;
-    font-family: 'Josefin Sans', sans-serif;
-    font-size: medium;
+     margin: 0rem;
 }
 
-
-@media (min-width: 300px) and (max-width: 812px) {
 
 .we {
-    color: rgb(152,108,192);
-    padding-top: 40px;
-}
-.p{
     
+     text-align: center;
+    max-width: 340px;
     color: rgb(152,108,192);
+    padding: 20px;
 }
-.h1{
+.p1 {
+
+    font-family: 'Josefin Sans', sans-serif;
+    max-width: 340px;
+    color: rgb(152,108,192) ;
+    padding:20px;
     text-align: center;
-    color: black;
+
 }
-.size{
-    border-radius: 1.5rem;
-    padding: 2vh;
-}
-footer{
-    position: relative;
+.emails{
+     max-width: 340px;
+    border-radius: 10.5rem;
+    padding: 10px;
+    text-align: center;
+    
 }
